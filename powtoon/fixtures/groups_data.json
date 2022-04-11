@@ -1,0 +1,10 @@
+[
+    {
+        "model": "powtoon.Group",
+        "pk": 1,
+        "fields": {
+            "name": "Admin",
+            "permission": [1, 2]
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "model": "powtoon.Permission",
+        "pk": 1,
+        "fields": {
+            "name": "Share",
+            "description": "Allow to share a powtoon"
+        }
+    },
+    {
+        "model": "powtoon.Permission",
+        "pk": 2,
+        "fields": {
+            "name": "Admin-Get",
+            "description": "Allow to get a powtoon that is not shared with me and I'm not its owner."
+        }    
+    }
+]
